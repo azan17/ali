@@ -7,7 +7,7 @@
   min-height: 100vh;
   width: 100%;
   background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)),
-    url(banner.jpg);
+    url(img/banner.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
@@ -90,7 +90,7 @@ nav .fas {
   .text-box h1 {
     font-size: 25px;
   }
-  .nav-links ul li {
+  /* .nav-links ul li {
     display: block;
   }
   .nav-links {
@@ -113,7 +113,7 @@ nav .fas {
   }
   .nav-links ul {
     padding: 30px;
-  }
+  } */
 }
 /* course */
 .course {
@@ -217,7 +217,7 @@ h3 {
   width: 80%;
   margin: auto;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 60px;
 }
 .facilities-col {
   flex-basis: 31%;
@@ -241,7 +241,7 @@ h3 {
 .testimonials {
   width: 80%;
   margin: auto;
-  padding-top: 100px;
+  padding-top: 60px;
   text-align: center;
 }
 .testimonial-col {
@@ -284,7 +284,7 @@ h3 {
   margin: 100px auto;
   width: 80%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(banner2.jpg);
+    url(img/banner2.jpg);
   background-position: center;
   background-size: cover;
   border-radius: 10px;
@@ -305,7 +305,7 @@ h3 {
 .footer {
   width: 100%;
   text-align: center;
-  padding: 30px 0;
+  padding: 10px 0;
 }
 .footer h4 {
   margin-bottom: 25px;
