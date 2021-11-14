@@ -1,0 +1,3 @@
+ only coder visible text cntrl + /
+“vs code copy line to next line” Code Answer
+On Windows: Shift + Alt + Up/Down.
